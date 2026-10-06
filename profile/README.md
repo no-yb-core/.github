@@ -1,27 +1,28 @@
 # Noybcore
 
-**Software engineering, open source, and practical technology.**
+**Software, open source, and things worth building.**
 
-Noybcore is an independent software organization focused on building reliable software, developer tools, libraries, and practical engineering projects.
+Noybcore is an independent software organization building open-source libraries, developer tools, software products, and technical experiments.
+
+Some projects are public. Some are still being built privately. All of them start with the same idea:
+
+> **No One → Becoming Someone.**
+
+## What We Build
+
+- Open-source libraries
+- Developer tools
+- Software infrastructure
+- SaaS products
+- AI and intelligent systems
+- Technical experiments
 
 ## Projects
 
-Our projects cover areas such as:
-
-* Backend engineering
-* Developer tooling
-* Software infrastructure
-* Automation
-* AI and intelligent systems
-* Open-source libraries
-
-## Repositories
-
 Explore our repositories to see what we're building.
 
-More projects will be added as Noybcore grows.
+More projects will come as Noybcore grows.
 
 ---
 
-**Noybcore** · Build things that matter.
-
+**Noybcore** · Build things worth building.
